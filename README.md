@@ -31,3 +31,5 @@ Intel已经把自己的 图形驱动 集成到了Linux内核项目，因此不�
 附：你也可以安装VirtualGL进行glxspheres硬件加速测试。
 http://sourceforge.net/projects/virtualgl/files/VirtualGL/
 比如下载64位的Deb包，安装后运行/opt/VirtualGL/bin/glxspheres64即可进行测试。
+
+Reprinted from:http://my.oschina.net/eechen/blog/227134
